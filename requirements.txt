@@ -1,0 +1,30 @@
+# Core data processing
+pandas
+numpy
+
+# Visualization
+matplotlib
+seaborn
+plotly
+
+# Machine learning
+scikit-learn
+xgboost
+lightgbm
+statsmodels  # For ARIMA
+tensorflow   # For LSTM (optional)
+keras        # Also for LSTM
+
+# Time and date handling
+python-dateutil
+
+# API and Web
+requests
+flask  # or use fastapi if preferred
+
+# Jupyter environment
+jupyterlab
+notebook
+
+# Environment variables (if using .env files)
+python-dotenv
