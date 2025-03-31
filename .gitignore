@@ -1,0 +1,40 @@
+# .gitignore
+
+# Byte-compiled files
+__pycache__/
+*.py[cod]
+*.so
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environments
+env/
+venv/
+.venv/
+
+# Data files
+*.csv
+*.xlsx
+*.h5
+*.db
+*.sqlite3
+data/raw/
+data/processed/
+
+# Logs and cache
+*.log
+*.tmp
+*.cache/
+
+# OS-specific files
+.DS_Store
+
+# IDE/editor folders
+.vscode/
+.idea/
+
+# Python packaging
+*.egg-info/
+dist/
+build/
