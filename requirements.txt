@@ -14,7 +14,7 @@ lightgbm
 statsmodels  # For ARIMA
 tensorflow   # For LSTM (optional)
 keras        # Also for LSTM
-
+tqdm
 # Time and date handling
 python-dateutil
 
