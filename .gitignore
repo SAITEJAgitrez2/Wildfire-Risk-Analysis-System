@@ -20,7 +20,7 @@ venv/
 *.db
 *.sqlite3
 data/raw/
-data/processed/
+#data/processed/
 
 # Logs and cache
 *.log
