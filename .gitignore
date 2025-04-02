@@ -19,7 +19,7 @@ venv/
 *.h5
 *.db
 *.sqlite3
-data/raw/
+#data/raw/
 #data/processed/
 
 # Logs and cache
