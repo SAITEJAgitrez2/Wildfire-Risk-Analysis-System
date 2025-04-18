@@ -6,7 +6,9 @@ numpy
 matplotlib
 seaborn
 plotly
-
+streamlit
+folium
+streamlit-folium
 # Machine learning
 scikit-learn
 xgboost
