@@ -28,3 +28,7 @@ notebook
 
 # Environment variables (if using .env files)
 python-dotenv
+
+# Save and load models
+joblib
+geopandas
