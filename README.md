@@ -68,3 +68,14 @@ This project is a practical application of core **Data Mining** principles, tail
     - Map-based location picker
     - Manual/auto FRP/brightness selection
     - Real-time fire risk prediction and weather display
+
+## 👥 Team Members
+
+This project was developed as part of the Graduate Data Mining course at the University of North Texas.
+
+| Name                     | Role                        | Contributions                                                                 |
+|--------------------------|-----------------------------|-------------------------------------------------------------------------------|
+| Sai Teja Narra Venkata   | ML Engineer / Streamlit Dev | Model training, API integration, Streamlit frontend, weather + FIRMS merging  |
+| Hema Tummapala           | Data Scientist              | EDA, feature engineering, classification analysis, notebook organization      |
+| Gudigopuram Varun Reddy              | Data Analyst                | EDA visualization, FRP-weather relation analysis, graphs and heatmaps         |
+| Sai Karthik Yadav Dommala           | Data Engineer               | Raw data processing, confidence filtering, feature engineering pipelines      |
